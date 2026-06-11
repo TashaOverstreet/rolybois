@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <a href="gallery.html">Gallery</a>
           <a href="care.html">Care Sheets</a>
           <a href="about.html">About</a>
+          <a href="https://rolybois.creator-spring.com/">Merch</a>
         </nav>
 
       </div>
